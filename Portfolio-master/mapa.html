@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ONway</title>
+    
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet">
+    <link href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css" rel="stylesheet">
+    <link rel="stylesheet" href="/Portfolio-master/style.css">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        #logo-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .logo {
+            width: 150px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        #map {
+            height: calc(100vh - 150px);
+            width: 100vw;
+        }
+    </style>
+</head>
+<body>
+    <div id="logo-container">
+        <img src="Assets/Logo.jpeg" alt="Logo de OnWay" class="logo">
+    </div>
+
+    <div id="map"></div>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.min.js"></script>
+    
+    <!-- Archivo JavaScript -->
+    <script src="script.js" defer></script>
+</body>
+</html>
