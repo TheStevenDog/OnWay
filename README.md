@@ -8,3 +8,7 @@ https://shorturl.at/blBcI
 #Presentacion
 https://docs.google.com/presentation/d/1R1dPcOUk5jHgH6no8ylez1UUwJ-8Y8TVuMCOZfs1tY0/edit?usp=drivesdk
 
+#Integrantes (INTELIGENCIA ARTIFICIAL)
+#Steven Rueda Lopez
+#Erick Andrey Lopez
+#Estefania david
