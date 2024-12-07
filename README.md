@@ -5,4 +5,6 @@ La solución que revoluciona el transporte moderno siendo un puente entre la efi
 #Video Explicativo de nuestro proyecto
 https://shorturl.at/blBcI
 
+#Presentacion
+https://docs.google.com/presentation/d/1R1dPcOUk5jHgH6no8ylez1UUwJ-8Y8TVuMCOZfs1tY0/edit?usp=drivesdk
 
